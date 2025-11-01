@@ -68,6 +68,8 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />       
 </div>
 
+<br>
+
 ---
 
 <div align="center">
